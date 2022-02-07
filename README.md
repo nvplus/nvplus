@@ -7,7 +7,7 @@ I'm Vincent, an aspiring full-stack developer studying Computer Science at Wilfr
 - ↖️ My simfiles have been used in [Stamina RPG](https://srpg5.groovestats.com/) and [East Coast Stamina](https://ecs10.groovestats.com/).
 - 📸 I like to dabble in [automotive photography](https://www.instagram.com/nv.zn6/).
 
-Click [here](https://github.com/nvplus/nvplus/blob/main/Resume%20-%20GitHub.pdf) to view my full resume.
+Click [here](https://github.com/nvplus/nvplus/blob/main/Resume%20-%20GitHub.pdf) to view my resume.
 
 #### Let's talk 💬
 If you want to chat, shoot me a friend request on [LinkedIn](https://www.linkedin.com/in/nguvinc/).
